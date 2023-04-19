@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272910037821",
+    "project_id": "xbull-d1fb9",
+    "storage_bucket": "xbull-d1fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272910037821:android:af02a466efe571710b0b54",
+        "android_client_info": {
+          "package_name": "com.example.twelve_x_bull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272910037821-u83g6g7li13rpceoafs17s6btda7nlf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WQJycm9fotfI-aiVTC2NpxbooM932eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272910037821-u83g6g7li13rpceoafs17s6btda7nlf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
